@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "app.sftp",
+      "type": "com.vm.sftp.configuration.ApplicationConfiguration",
+      "sourceType": "com.vm.sftp.configuration.ApplicationConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.sftp.host",
+      "type": "java.lang.String",
+      "sourceType": "com.vm.sftp.configuration.ApplicationConfiguration"
+    },
+    {
+      "name": "app.sftp.password",
+      "type": "java.lang.String",
+      "sourceType": "com.vm.sftp.configuration.ApplicationConfiguration"
+    },
+    {
+      "name": "app.sftp.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.vm.sftp.configuration.ApplicationConfiguration"
+    },
+    {
+      "name": "app.sftp.remote-directory",
+      "type": "java.lang.String",
+      "sourceType": "com.vm.sftp.configuration.ApplicationConfiguration"
+    },
+    {
+      "name": "app.sftp.user",
+      "type": "java.lang.String",
+      "sourceType": "com.vm.sftp.configuration.ApplicationConfiguration"
+    }
+  ],
+  "hints": []
+}
